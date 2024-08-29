@@ -38,11 +38,11 @@
 						<applicationName>mule-cicd-demo-1</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
-						<businessGroupId>1967bf1c-c30c-4615-8a42-dc6a035f5048</businessGroupId>
+						<businessGroupId>xxxxx</businessGroupId>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
-						<connectedAppClientId>572e440bb65d419b9932be3043872241</connectedAppClientId>
-						<connectedAppClientSecret>d8ebCb86Dd0c47aeB058663CF749b1ac</connectedAppClientSecret>
+						<connectedAppClientId>xxxxxx</connectedAppClientId>
+						<connectedAppClientSecret>xxxxx</connectedAppClientSecret>
 						<connectedAppGrantType>client_credentials</connectedAppGrantType>
 					</cloudHubDeployment>
 				</configuration>
